@@ -1,9 +1,7 @@
-# Task-Manager_Using_RESTAPI
-
 # Task Management Application
 
 ## 📌 Project Overview
-This is a **Task Management Application** built using the **MERN stack** (MongoDB, ExpressJS, ReactJS, NodeJS). It allows users to manage their tasks efficiently with authentication, task categorization, and real-time updates.
+This is a **Task Management Application** built using the **MERN stack** (MongoDB, ExpressJS, ReactJS, NodeJS). It allows users to manage their tasks efficiently with authentication, task categorization, and real-time updates. It also follows the principles of **RESTful API** for seamless communication between the frontend and backend.
 
 ## 🚀 Features
 - User Authentication (JWT-based login/signup)
@@ -12,6 +10,7 @@ This is a **Task Management Application** built using the **MERN stack** (MongoD
 - Categorize tasks with labels
 - Responsive UI with **ReactJS**
 - Secure backend using **ExpressJS & MongoDB**
+- RESTful API architecture
 
 ## 🛠️ Tech Stack
 - **Frontend:** ReactJS, Redux (for state management)
@@ -83,5 +82,5 @@ Feel free to contribute! Fork the repository, create a new branch, and submit a 
 This project is licensed under the **MIT License**.
 
 ---
-Made with ❤️ by Vishnu Karanth & Contributors
+Made with ❤️ by Vishnu Karanth,Sharath P,Sanjana R and Sanjana T S.
 
