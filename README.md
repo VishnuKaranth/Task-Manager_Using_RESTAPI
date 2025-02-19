@@ -50,7 +50,7 @@ PORT=5000
 #### Start Backend:
 ```sh
 cd backend
-npm start
+nodemon server.js
 ```
 
 #### Start Frontend:
