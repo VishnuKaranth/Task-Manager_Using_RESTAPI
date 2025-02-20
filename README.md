@@ -14,21 +14,16 @@ This is a **Task Management Application** built using the **MERN stack** (MongoD
 
 ## 🖼️ Screenshots
 ### 🔹 Login Page
-![Home Page](![image](https://github.com/user-attachments/assets/58139e87-58df-442a-947a-4f239868d3ab)
-)
+![Login_Page](https://github.com/user-attachments/assets/58139e87-58df-442a-947a-4f239868d3ab)
 
 ### 🔹 Register Page
-![Task List](![image](https://github.com/user-attachments/assets/0f130168-43bc-467b-a8a4-dfa8e63c7fe2)
-)
+![Register_Page](https://github.com/user-attachments/assets/0f130168-43bc-467b-a8a4-dfa8e63c7fe2)
 
 ### 🔹 Dashboard
-![image](https://github.com/user-attachments/assets/5ffe2959-08eb-45b7-8ad4-4f4005dc4adb
-)
-)
+![Dashboard](https://github.com/user-attachments/assets/5ffe2959-08eb-45b7-8ad4-4f4005dc4adb)
 
 ### 🔹 Add New Task
-![Add Task](![image](https://github.com/user-attachments/assets/bd0432ea-18da-4ec2-befe-067ef70ef71a)
-)
+![Add_New_Task](https://github.com/user-attachments/assets/bd0432ea-18da-4ec2-befe-067ef70ef71a)
 
 ## 🛠️ Tech Stack
 - **Frontend:** ReactJS, Redux (for state management)
