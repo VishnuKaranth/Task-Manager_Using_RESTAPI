@@ -22,7 +22,7 @@ This is a **Task Management Application** built using the **MERN stack** (MongoD
 )
 
 ### 🔹 Dashboard
-![Task List](![image](https://github.com/user-attachments/assets/5ffe2959-08eb-45b7-8ad4-4f4005dc4adb)
+![image](https://github.com/user-attachments/assets/5ffe2959-08eb-45b7-8ad4-4f4005dc4adb
 )
 )
 
