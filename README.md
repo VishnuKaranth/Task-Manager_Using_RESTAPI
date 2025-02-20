@@ -78,8 +78,6 @@ npm start
 ## 🤝 Contributing
 Feel free to contribute! Fork the repository, create a new branch, and submit a pull request.
 
-## 📜 License
-This project is licensed under the **MIT License**.
 
 ---
 Made with ❤️ by Vishnu Karanth,Sharath P,Sanjana R and Sanjana T S.
