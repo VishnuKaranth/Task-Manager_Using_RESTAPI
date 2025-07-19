@@ -10,17 +10,19 @@ connectDB();
 
 const app = express();
 
-// Middleware
-// --- Start of CORS Configuration ---
+// --- START: CORS Configuration ---
+// This must be placed before any routes
 const corsOptions = {
-  origin: 'https://task-manager-using-restapi.vercel.app',
+  origin: 'https://task-manager-using-restapi.vercel.app', // Your frontend's URL
   methods: 'GET,POST,PUT,DELETE',
-  allowedHeaders: 'Content-Type,Authorization',
-  optionsSuccessStatus: 200 // For legacy browser support
-}
+  allowedHeaders: ['Content-Type', 'Authorization'],
+  optionsSuccessStatus: 200
+};
 app.use(cors(corsOptions));
-// --- End of CORS Configuration ---
+// --- END: CORS Configuration ---
 
+
+// Middleware
 app.use(express.json());
 app.use(morgan('dev'));
 
