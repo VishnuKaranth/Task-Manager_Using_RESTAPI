@@ -10,7 +10,7 @@ connectDB();
 
 const app = express();
 app.use(cors({
-  origin: 'https://todo-in-nextjs-drab.vercel.app' 
+  origin: 'https://task-manager-using-restapi.vercel.app' 
 }));
 
 // Middleware
