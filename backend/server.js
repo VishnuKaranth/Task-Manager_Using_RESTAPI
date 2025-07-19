@@ -9,6 +9,9 @@ const connectDB = require('./config/db');
 connectDB();
 
 const app = express();
+app.use(cors({
+  origin: 'https://todo-in-nextjs-drab.vercel.app' 
+}));
 
 // Middleware
 app.use(cors());
